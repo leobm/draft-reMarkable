@@ -99,6 +99,10 @@ You will be prompted for confirmation on downloading and installing and possibly
 
 To remove, you can run the `draft-rm-uninstall` script in the same way.
 
+### 5. (optional) Build and deploy button-capture
+
+For Information on how this works, see [INSTALL_BUTTON.md](INSTALL_BUTTON.md).
+
 * * * 
 ## Configuration Files
 
